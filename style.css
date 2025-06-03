@@ -122,7 +122,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../imagens-de-cafeteria/home.jpg) no-repeat;
+    background: url(./img/logo_files/home-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
